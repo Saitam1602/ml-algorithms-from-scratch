@@ -1,5 +1,5 @@
 '''
-Author: Matias Maiorano
+Author: Saitam1602
 Date: 22/06/2022
 Description: k_means function from scratch
 '''
